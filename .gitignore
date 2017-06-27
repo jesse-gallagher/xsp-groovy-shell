@@ -1,0 +1,19 @@
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+._*
+*.swp
+
+#*.jar
+*.class
+
+# Maven Versions residue
+*.versionsBackup
+release.properties
+
+.classpath
+.project
+.settings
+bin/
+target/

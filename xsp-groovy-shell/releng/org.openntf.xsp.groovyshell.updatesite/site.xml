@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="XPages Groovy Shell" url="https://github.com/jesse-gallagher/xsp-groovy-shell">
+      A server based on groovy-shell-server for an XPages application environment
+   </description>
+   <feature url="features/org.openntf.xsp.groovyshell.feature_1.0.0.qualifier.jar" id="org.openntf.xsp.groovyshell.feature" version="1.0.0.qualifier">
+      <category name="OpenNTF XPages Groovy Shell"/>
+   </feature>
+   <category-def name="OpenNTF XPages Groovy Shell" label="OpenNTF XPages Groovy Shell"/>
+</site>
